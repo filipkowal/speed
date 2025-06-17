@@ -29,7 +29,7 @@ export default async function ContactPage() {
           <div>
             <h2 className="text-xl font-semibold mb-2">Get in Touch</h2>
             <p className="text-gray-600">
-              We'd love to hear from you. Please use the contact information
+              We would love to hear from you. Please use the contact information
               below or fill out the form to reach us.
             </p>
           </div>
